@@ -1,0 +1,4 @@
+interface:
+  display_name: "ybj-language-shift（语言资源转化）"
+  short_description: "从口喷语言中识别限制，发现已有资源，并转向理解、创造、祝福与行动"
+  default_prompt: "Use $ybj-language-shift to analyze my spoken-writing draft, reveal its hidden resources, and turn limiting language into a grounded decision and action."

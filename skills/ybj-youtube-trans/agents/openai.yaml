@@ -1,0 +1,4 @@
+interface:
+  display_name: "ybj-youtube-trans（YouTube 一键策展）"
+  short_description: "获取文稿并翻译，逐字核验十句金句，整理反直觉观点与人物背景，归档为本地 Markdown"
+  default_prompt: "Use $ybj-youtube-trans to curate this YouTube video into a local Chinese Markdown article with verified original quotes, speaker labels, insights, and participant backgrounds."

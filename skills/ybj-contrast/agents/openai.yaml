@@ -1,0 +1,4 @@
+interface:
+  display_name: "ybj-contrast"
+  short_description: "保留你的口吻，通过真实反差与自然推进，优化开头、段落与结尾的吸引力"
+  default_prompt: "使用 $ybj-contrast 修改我提供的文字，保留我的口吻与原意，通过真实反差和转折、因果关系增强继续阅读的理由，涉及结尾时选择合适的开放或闭合循环，先给一版最小修改稿，再简短说明改动。"
