@@ -1,0 +1,4 @@
+interface:
+  display_name: "ybj-library"
+  short_description: "根据你的具体问题检索课程原文，提供准确出处、适用条件和下一步行动"
+  default_prompt: "使用 $ybj-library 找出课程或文章中与我的问题有关的内容，核实原文后给出建议。"

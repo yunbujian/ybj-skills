@@ -1,0 +1,4 @@
+interface:
+  display_name: "ybj-tenweeks"
+  short_description: "根据你的具体问题查找课程章节，联网核实原文后提供出处、适用条件与下一步行动"
+  default_prompt: "使用 $ybj-tenweeks 查找课程中与我的问题相关的章节，读取原文后再给出建议。"
