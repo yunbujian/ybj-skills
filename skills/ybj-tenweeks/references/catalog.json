@@ -1,5 +1,16 @@
 [
   {
+    "id": "ten-00",
+    "title": "10 周实践小组 · 欢迎信",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
     "id": "ten-01",
     "title": "置身于未知、奥秘与疑虑之中，却不焦躁迫切地探寻事实与理性的解释。",
     "url": "",
@@ -17,11 +28,14 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-02",
-    "title": "目标实现之路既不笔直，也不狭窄，而是散焦式的。",
+    "title": "目标实现之路既不笔直，也不狭窄，而是散焦式的",
     "url": "",
     "headings": [
       "什么是财富？",
@@ -29,7 +43,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-03",
@@ -45,11 +62,14 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-04",
-    "title": "目标和结果，是系统和过程的副产品。",
+    "title": "目标和结果，是系统和过程的副产品",
     "url": "",
     "headings": [
       "目标和结果，是系统和过程的副产品。",
@@ -60,7 +80,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-05",
@@ -81,7 +104,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-06",
@@ -97,7 +123,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-07",
@@ -113,11 +142,14 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-08",
-    "title": "AI 可以替你完成任务，但不能替你完成成长。",
+    "title": "AI 可以替你完成任务，但不能替你完成成长。判断 AI 是否用对，看使用之后，你有没有看见更多、理解更深、创造出原本创造不了的东西。",
     "url": "",
     "headings": [
       "AI 在创作中到底起什么作用呢？",
@@ -129,7 +161,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-09",
@@ -146,7 +181,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-10",
@@ -164,7 +202,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-11",
@@ -176,7 +217,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-12",
@@ -188,7 +232,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-13",
@@ -203,7 +250,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-14",
@@ -217,11 +267,14 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-15",
-    "title": "带着渴望的心，去过这一天。",
+    "title": "带着渴望的心去过这一天",
     "url": "",
     "headings": [
       "原来是要带着全然渴望的心去过这一天。",
@@ -233,11 +286,14 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-16",
-    "title": "不把失败，当作对自己的否定。",
+    "title": "一个人如果从来没有经历过失败，也从来没有真正勇敢地尝试过什么事。",
     "url": "",
     "headings": [
       "🎙️ 此刻行动：今日口喷写作 🎙️",
@@ -245,7 +301,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-17",
@@ -259,7 +318,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-18",
@@ -274,7 +336,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-19",
@@ -295,7 +360,10 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
   },
   {
     "id": "ten-20",
@@ -317,6 +385,185 @@
     ],
     "skill": "ybj-tenweeks",
     "course": "十周写作实践",
-    "indexed_at": "2026-09-19"
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false,
+    "headings_indexed_at": "2026-09-19"
+  },
+  {
+    "id": "ten-21",
+    "title": "一套真正面向自由、创造未来的方法。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-22",
+    "title": "心态转变的力量，我选择实现我的未来，毫不犹豫。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-23",
+    "title": "看似完全相反的两极，只是同一个事物的不同程度，可以相互转化。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-24",
+    "title": "硬币的两面，你都拥有，如何同时看见两面？只要你愿意翻转它。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-25",
+    "title": "公开写作：我来到这个地球上，是做什么的？",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-26",
+    "title": "写作：一种无需他人批准的杠杆（人人都能使用，却只有 1% 的人使用。）",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-27",
+    "title": "公开学习 > 公开写作（学习、进步、幸福是目的）",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-28",
+    "title": "外部思维：让我们的文章真正进入读者的心里。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-29",
+    "title": "通过热爱，创造财富：多少钱才算够了？",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-30",
+    "title": "简单、好玩",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-31",
+    "title": "何为自由创作？清晰得知道自己的选择。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-32",
+    "title": "注意力是一切事物发展的燃料。你投向哪，哪里就会发展壮大。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-33",
+    "title": "每周写作4小时",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-34",
+    "title": "每周写作4小时：示范我是如何公开学习的？",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-35",
+    "title": "最简单且有效的公开学习方式：内容策展。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
+  },
+  {
+    "id": "ten-36",
+    "title": "没有写，就是没有学。写作就是思考，没有写，就是假学习。",
+    "url": "",
+    "headings": [],
+    "skill": "ybj-tenweeks",
+    "course": "十周写作实践",
+    "indexed_at": "2026-10-22",
+    "title_source": "最新课程目录",
+    "body_verified": false
   }
 ]
